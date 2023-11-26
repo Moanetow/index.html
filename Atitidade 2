@@ -1,21 +1,16 @@
 <!DOCTYPE html>
-
-<html lang=“pt-br”>
+<html lang="en">
 
 <head>
-
-<title>Título da página</title>
-
-<meta charset=“utf-8”>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto</title>
 </head>
 
 <body>
-
-<h1>Aqui vai um título</h1>
-
+    <h1>Meu Projeto</h1>
+    <img src="imagens/cachorro.jpg" alt="Imagem de um cachorro">
+    <!-- Outras modificações ou conteúdo do seu projeto -->
 </body>
 
 </html>
-
-Copied!
